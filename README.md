@@ -7,17 +7,20 @@
 <br>
 
 홈페이지 : [찾기쉬운 생활법령정보](https://www.easylaw.go.kr/CSP/Main.laf)
+![img1](https://github.com/KW-SWTG/Chatbot_Dataset/blob/master/img/img1.png)
 
 <br>
 
 ## 2. 노인복지
 노인복지 생활법령을 "건강검진", "노인복지", "소득보장", "안전", "일자리" 엑셀 파일로 정제하였습니다. 
 
-#### 1차 category : 건강검진
-#### 1차 category : 노인복지
-#### 1차 category : 소득보장
-#### 1차 category : 안전
-#### 1차 category : 일자리
+#### 1차 category : 건강검진, 2차 category : 3가지
+#### 1차 category : 노인복지, 2차 category : 13가지
+#### 1차 category : 소득보장, 2차 category : 21가지
+#### 1차 category : 안전, 2차 category : 6가지
+#### 1차 category : 일자리, 2차 category : 4가지
+
+![img2](https://github.com/KW-SWTG/Chatbot_Dataset/blob/master/img/img2.PNG)
 
 <br>
 
