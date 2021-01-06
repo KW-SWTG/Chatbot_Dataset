@@ -14,11 +14,11 @@
 ## 2. 노인복지
 노인복지 생활법령을 "건강검진", "노인복지", "소득보장", "안전", "일자리" 엑셀 파일로 정제하였습니다. 
 
-#### 1차 category : 건강검진, 2차 category : 3가지
-#### 1차 category : 노인복지, 2차 category : 13가지
-#### 1차 category : 소득보장, 2차 category : 21가지
-#### 1차 category : 안전, 2차 category : 6가지
-#### 1차 category : 일자리, 2차 category : 4가지
+* 1차 category : 건강검진, 2차 category : 3가지
+* 1차 category : 노인복지, 2차 category : 13가지
+* 1차 category : 소득보장, 2차 category : 21가지
+* 1차 category : 안전, 2차 category : 6가지
+* 1차 category : 일자리, 2차 category : 4가지
 
 ![img2](https://github.com/KW-SWTG/Chatbot_Dataset/blob/master/img/img2.PNG)
 
@@ -37,3 +37,6 @@
 ## 4. 고령자 고용
 
 <br><br>
+
+## 5. Test을 위한 데이터셋 : QA.xlsx
+"1차 category", "2차 category", "Q"(질문), "A"(응답) 4개의 column으로 구성되었습니다.
