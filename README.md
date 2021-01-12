@@ -34,6 +34,8 @@
 
 * 1차 category : 치매, 2차 category : 18가지
 
+![img3](https://github.com/KW-SWTG/Chatbot_Dataset/blob/master/img/img3.PNG)
+
 <br>
 
 치매노인 : [치매노인 생활법령](https://www.easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=854&ccfNo=1&cciNo=1&cnpClsNo=1)
