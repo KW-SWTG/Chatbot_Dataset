@@ -30,9 +30,15 @@
 
 
 ## 3. 치매 노인
+치매노인 생활법령을 "치매" 엑셀 파일로 정제하였습니다.
 
+* 1차 category : 치매, 2차 category : 18가지
 
-<br><br>
+<br>
+
+치매노인 : [치매노인 생활법령](https://www.easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=854&ccfNo=1&cciNo=1&cnpClsNo=1)
+
+<br>
 
 ## 4. 고령자 고용
 
