@@ -2,11 +2,14 @@ model train & test
 =================
 
 python trainmodel.py "paragraph.txt"
+<br>
 모델 생성이 완료되면
 
 python modeltest.py "QA.csv" "trained_model.model"
+<br>
 테스트 진행
 
+<br>
 test ex)
 Q: 최근 치매판정을 받은 형의 자녀들이 재산분쟁에만 골몰하는 것을 봤어. 그래서 미리 후견인을 지정해 두는 제도가 있니?
 Realcate: 치매
