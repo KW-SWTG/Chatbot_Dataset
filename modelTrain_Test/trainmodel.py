@@ -5,9 +5,7 @@ import pandas as pd
 from gensim.models import FastText
 from konlpy.tag import Kkma
 
-# https://konlpy-ko.readthedocs.io/ko/v0.4.3/
-# konlpy 설치법
-
+kkma = Kkma()
 
 def loadparagraphset(ptxt):
     f = open(ptxt, "r", encoding='utf-8')
@@ -41,10 +39,9 @@ def hyungextrac(text):
 
 
 if __name__ == "__main__":
-    kkma = Kkma()
     paraset = loadparagraphset(sys.argv[1])
     paraexhyung = []
     for i in paraset:
-        paraexhyung.append(hyunextrac(i))
+        paraexhyung.append(hyungextrac(i))
     femmodel = trainmodel(paraexhyung, 400, 10, 40)
     # parameter를 수정 하기 바람
