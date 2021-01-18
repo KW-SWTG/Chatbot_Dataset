@@ -98,6 +98,28 @@ page :  17  -  협동조합 설립ㆍ운영   size :  24 <br>
 <br><br>
 
 ## 창업번째 6
+page :  1  -  결혼중개업   size :  16 <br> 
+page :  2  -  경비(업)   size :  22<br> 
+page :  3  -  귀농인   size :  14<br> 
+page :  4  -  네일샵 창업ㆍ운영   size :  16<br> 
+page :  5  -  동업계약   size :  24<br> 
+page :  6  -  메이크업샵 창업ㆍ운영   size :  16<br> 
+page :  7  -  미용실 창업ㆍ운영   size :  16<br> 
+page :  8  -  민간임대주택사업자   size :  21<br> 
+page :  9  -  민박 사업자   size :  0<br> 
+page :  10  -  반찬가게 창업ㆍ운영   size :  22<br> 
+page :  11  -  세탁소 운영자   size :  15<br> 
+page :  12  -  소상공인 지원   size :  14<br> 
+page :  13  -  음식점 운영   size :  24<br> 
+page :  14  -  음식점 창업   size :  18<br> 
+page :  15  -  인터넷쇼핑몰 창업자   size :  20<br> 
+page :  16  -  청소(업)   size :  19<br> 
+page :  17  -  체육시설 설치ㆍ운영   size :  17<br> 
+page :  18  -  커피전문점 창업ㆍ운영   size :  18<br> 
+page :  19  -  펜션 사업자   size :  40<br> 
+page :  20  -  프랜차이즈(가맹계약)   size :  20<br> 
+page :  21  -  피부관리실 창업ㆍ운영   size :  16<br> 
+page :  22  -  학원의 설립ㆍ운영 및 과외교습   size :  25<br> 
 
 <br><br>
 
