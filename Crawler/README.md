@@ -106,7 +106,7 @@ page :  5  -  동업계약   size :  24<br>
 page :  6  -  메이크업샵 창업ㆍ운영   size :  16<br> 
 page :  7  -  미용실 창업ㆍ운영   size :  16<br> 
 page :  8  -  민간임대주택사업자   size :  21<br> 
-page :  9  -  민박 사업자   size :  0<br> 
+page :  9  -  민박 사업자   size :  26<br> 
 page :  10  -  반찬가게 창업ㆍ운영   size :  22<br> 
 page :  11  -  세탁소 운영자   size :  15<br> 
 page :  12  -  소상공인 지원   size :  14<br> 
@@ -166,7 +166,7 @@ page :  5  -  공탁   size :  53 <br>
 page :  6  -  국민참여재판   size :  11 <br> 
 page :  7  -  나홀로 민사소송   size :  46 <br> 
 page :  8  -  소액사건재판   size :  14 <br> 
-page :  9  -  의료분쟁   size :  0 <br> 
+page :  9  -  의료분쟁   size :  33 <br> 
 page :  10  -  행정소송   size :  12 <br> 
 page :  11  -  행정심판   size :  17 <br> 
 
@@ -199,7 +199,7 @@ page :  10  -  여성근로자   size :  15 <br>
 page :  11  -  외국인근로자 고용취업   size :  29 <br> 
 page :  12  -  유연근무제   size :  14 <br> 
 page :  13  -  일과 가정생활   size :  15 <br> 
-page :  14  -  임금   size :  0 <br> 
+page :  14  -  임금   size :  24 <br> 
 page :  15  -  장애인 고용   size :  15 <br> 
 page :  16  -  장애인 취업ㆍ창업   size :  12 <br> 
 page :  17  -  퇴직급여제도   size :  17 <br> 
@@ -248,7 +248,7 @@ page :  6  -  예비군 및 민방위   size :  16 <br>
 
 ## 정보통신/기술번째 15
 page :  1  -  개인정보보호   size :  17 <br> 
-page :  2  -  분야별 개인정보보호   size :  0 <br> 
+page :  2  -  분야별 개인정보보호   size :  33 <br> 
 page :  3  -  인터넷 명예훼손   size :  13 <br> 
 page :  4  -  인터넷 불법이용 규제   size :  9 <br> 
 page :  5  -  특허권   size :  16 <br> 
