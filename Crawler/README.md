@@ -1,3 +1,17 @@
+# 주제별 생활법령 
+### 총 18가지 주제 
+    '가정법률', '아동·청소년/교육', '부동산/임대차', '금융/금전', '사업', '창업',
+    '무역/출입국', '소비자', '문화/여가생활', '민형사/소송', '교통/운전', '근로/노동',
+    '복지', '국방/보훈', '정보통신/기술', '환경/에너지', '사회안전/범죄', '국가 및 지자체'
+
+![img4](https://github.com/KW-SWTG/Chatbot_Dataset/blob/master/img/img4.png)
+<br><br>
+
+### 주제별 문단 수집 예시
+![img4](https://github.com/KW-SWTG/Chatbot_Dataset/blob/master/img/img5.PNG)
+
+<br>
+
 ## 가정법률 1
 page :  1  -  가족관계 등록   size :  24 <br>
 page :  2  -  결혼준비자   size :  33 <br>
