@@ -19,7 +19,7 @@
 <br><br>
 
 ## 3. 모든 1차 카테고리
-![img6](https://github.com/KW-SWTG/Chatbot_Dataset/blob/master/img/img6.png)
+![img6](https://github.com/KW-SWTG/Chatbot_Dataset/blob/master/img/img6.PNG)
 
 <br>
 category = <br>
